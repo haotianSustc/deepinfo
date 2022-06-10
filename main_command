@@ -1,0 +1,3 @@
+python main.py --datasets_name=CUB --net_name=vgg16 --step_name=net;
+
+python main.py --datasets_name=CUB --net_name=vgg16 --step_name=x;
