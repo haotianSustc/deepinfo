@@ -23,5 +23,6 @@ important parameters:
 * capability_lambda_init_x/capability_lambda_init_y: It's the lambda parameter shown in our paper, which can balance two kinds of loss function. It can't be either very large or very small.
 
 TODO: add datasets and trained net/decoder
+
 TODO: give more explanations to all the parameters.
 
